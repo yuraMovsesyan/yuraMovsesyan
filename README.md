@@ -1,7 +1,7 @@
 ## About me
-I'm a student and beginner developer about has no commercial experience.
+My name is Yuri👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
-I'm learning a program languages like C#, Rust, Python, PHP.
+In addition, I study programming languages such as Rust, Python.
 
 ## New
 In the new year (2022), I decided to study C and TypeScript, and stop studying Python and Rust
