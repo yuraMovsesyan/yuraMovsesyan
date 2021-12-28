@@ -4,7 +4,7 @@ My name is Yury👋 I am a student and developer of games, websites, software an
 In addition, I study programming languages such as Rust, Python.
 
 ## New
-In the new year (2022), I decided to study C and TypeScript, and stop studying Python and Rust
+In the new year (2022), I decided to study C and TypeScript, and stop studying Python
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yuraMovsesyan&show_icons=true&theme=default" alt="yuraMovsesyan"/></p>
 <!--radical, merko, tokyonight-->
