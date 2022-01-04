@@ -1,10 +1,7 @@
 ## About me
 My name is Yury👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
-In addition, I study programming languages such as Rust, Python.
-
-## New
-In the new year (2022), I decided to study C and TypeScript, and stop studying Python
+In addition, I study programming languages such as Rust, TypeScript and C.
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yuraMovsesyan&show_icons=true&theme=default" alt="yuraMovsesyan"/></p>
 <!--radical, merko, tokyonight-->
@@ -16,4 +13,3 @@ In the new year (2022), I decided to study C and TypeScript, and stop studying P
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-CSharp-a300b5?style=flat&logo=csharp"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust"/></a>
 <a href="https://www.php.org/"><img src="https://img.shields.io/badge/-PHP-213c80?style=flat&logo=php"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-ffff66?style=flat&logo=python"/></a>
