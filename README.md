@@ -1,4 +1,7 @@
 ## About me
+
+<img src="https://raw.githubusercontent.com/yuraMovsesyan/yuraMovsesyan/main/img/HS59.gif#gh-light-mode-only">
+
 My name is Yury👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
 In addition, I study programming languages such as Rust, TypeScript and C.
