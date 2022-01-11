@@ -1,6 +1,6 @@
 ## About me
 
-<img src="https://raw.githubusercontent.com/yuraMovsesyan/yuraMovsesyan/main/img/HS59.gif#gh-light-mode-only">
+<img src="https://thumbs.gfycat.com/AnguishedContentBuffalo-size_restricted.gif#gh-light-mode-only">
 
 My name is Yury👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
