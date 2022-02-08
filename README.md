@@ -4,7 +4,7 @@
 
 My name is Yury👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
-In addition, I study programming languages such as Rust, TypeScript and C.
+In addition, I study programming languages such as Rust, Go and C.
 
 My second <a href="https://github.com/Yura440">account</a> dedicated to the frontend. 
 
