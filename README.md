@@ -1,6 +1,6 @@
 ## About me
 
-<img src="https://thumbs.gfycat.com/AnguishedContentBuffalo-size_restricted.gif#gh-light-mode-only">
+<img src="https://i.gifer.com/3HeO.gif">
 
 My name is Yury👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
