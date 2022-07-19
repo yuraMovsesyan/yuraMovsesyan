@@ -1,6 +1,6 @@
 ## About me
 
-<img src="https://github.com/yuraMovsesyan/yuraMovsesyan/blob/main/img/3HeO.gif?raw=true">
+<img src="https://github.com/yuraMovsesyan/yuraMovsesyan/blob/main/img/3HeO.gif?raw=true" width="100%">
 
 My name is Yury👋 I am a student and developer of games, websites, software and bots in C# and PHP.
 
