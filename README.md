@@ -8,7 +8,7 @@ In addition, I study programming languages such as Rust and C.
 
 My second <a href="https://github.com/Yura440">account</a> dedicated to the frontend. 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yuraMovsesyan&show_icons=true&theme=default" alt="yuraMovsesyan"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yuraMovsesyan&show_icons=true&theme=vue-dark" alt="yuraMovsesyan"/></p>
 <!--radical, merko, tokyonight-->
 
 ![](https://komarev.com/ghpvc/?username=yuraMovsesyan)
